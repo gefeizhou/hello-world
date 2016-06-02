@@ -1,3 +1,2 @@
 # hello-world
-sssssssssssssssssssssssssssssssssssssss
-readme
+`hello, the whole world`
